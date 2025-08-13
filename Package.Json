@@ -1,0 +1,16 @@
+{
+  "name": "discord-tax-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that manages seller taxes and reminders.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
