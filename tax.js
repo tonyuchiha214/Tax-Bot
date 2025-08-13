@@ -1,5 +1,3 @@
-# Let's save the provided code as tax.js in the /mnt/data directory
-
 code_content = """<PASTE THE PROVIDED CODE HERE>"""  # placeholder
 # The user pasted a long code block, we'll insert it directly.
 code_content = """import fs from 'fs';
