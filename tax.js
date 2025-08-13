@@ -394,4 +394,6 @@ export async function handleTaxInteraction(interaction, client, config) {
 
 // Weekly reminders (call on ready + every 7 days)
 export function initTaxScheduler(client, { TAX_GIF_URL, PAYPAL_NAME }) {
-  setTimeout(() => sendWeeklyTaxReminders(client, { TAX_GIF_URL, PAYPAL
+  setTimeout(() => sendWeeklyTaxReminders(client, { TAX_GIF_URL, PAYPAL }
+                                          
+}
