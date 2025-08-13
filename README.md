@@ -9,7 +9,7 @@ This bot helps manage seller tax reminders on Discord.
 3. Create a `.env` file with your bot token:
 
 ```
-DISCORD_TOKEN=your-bot-token-here
+DISCORD_TOKEN=MTQwNTA1NzM0ODQwOTYyNjY2NQ.GLyzPg._bDhIZjKsm1_6snLLFQRoukhmwJmREmp7Icf_U
 ```
 
 4. Start the bot:
