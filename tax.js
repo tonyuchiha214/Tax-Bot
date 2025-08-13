@@ -1,5 +1,3 @@
-code_content = """<PASTE THE PROVIDED CODE HERE>"""  # placeholder
-# The user pasted a long code block, we'll insert it directly.
 code_content = """import fs from 'fs';
 import path from 'path';
 import {
